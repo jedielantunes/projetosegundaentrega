@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+#voltar{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+}
+body {
+    background: linear-gradient(to right, rgb(5, 231, 156), rgb(25, 90, 85));
+    color: white;
+}
+ .carrinhovaz{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 100%;
+    width: 50rem;
+    height: 50rem;
+    margin-left: 27%;
+ }
+ .carrinhovaz img{
+    width: 120px;
+    height: auto;
+ }
+ #logout{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border-radius: 10%;
+    cursor: pointer;
+ }
